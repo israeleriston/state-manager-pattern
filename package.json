@@ -11,10 +11,19 @@
     "url": "git+https://github.com/israeleriston/state-manager-pattern.git"
   },
   "keywords": [],
-  "author": "Israel Ériston <israel.eriston@gmail.com> (https://github.com/israeleriston/migration-tools)",
+  "author": "Israel Ériston <israel.eriston@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/israeleriston/state-manager-pattern/issues"
   },
-  "homepage": "https://github.com/israeleriston/state-manager-pattern#readme"
+  "homepage": "https://github.com/israeleriston/state-manager-pattern#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "standart": "^6.1.0"
+  }
 }
